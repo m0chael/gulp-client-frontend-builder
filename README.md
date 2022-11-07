@@ -10,7 +10,7 @@ This is my gulp file which I use for **client side frontends (HTML, CSS, IMAGES,
 ## Installation
 
 ```
-npm install gulp gulp-uglify gulp-clean-css gulp-htmlmin gulp-util gulp-minify-inline critical gulp-inline-source gulp-rev gulp-rev-replace gulp-remove-logging gulp-callback gulp-javascript-obfuscator gulp-rename
+npm install gulp gulp-uglify gulp-clean-css gulp-htmlmin gulp-util gulp-minify-inline critical gulp-inline-source gulp-rev gulp-rev-replace gulp-remove-logging gulp-callback gulp-javascript-obfuscator
 ```
 
 ## Running this gulp file
